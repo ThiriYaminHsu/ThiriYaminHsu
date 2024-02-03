@@ -1,25 +1,18 @@
-## 👋 Hello there!
+## Hello, World!
 
-### 📚 Background
+### 📚 Academic Background
 
-I'm Thiri, an undergraduate Computer Science student with a deep passion for theoretical physics. Currently enrolled in the Qubit by Qubit program, I am exploring the fascinating realm of quantum computing. In my free time, I dedicate myself to the study of theoretical physics and am currently delving into Quantum Field Theory through the courses from the Perimeter Institute.
+I am Thiri, an undergraduate Computer Science student with a profound interest in theoretical physics. Currently enrolled in the Qubit by Qubit program, I am actively engaging with the intricate domain of quantum computing. In my academic pursuits, I commit my free time to the comprehensive study of theoretical physics, particularly immersing myself in Quantum Field Theory through courses offered by the Perimeter Institute.
 
-### 📝 Learning Journey
+### 📝 Academic Journey
 
-I'm documenting my quantum computing learning journey on GitHub. Currently enrolled in the Qubit by Qubit program and taking courses from MIT and the Perimeter Institute to deepen my understanding of quantum concepts. Explore my repositories to see the practical side of my learning process!
+My ongoing academic expedition in quantum computing is meticulously documented on GitHub. Concurrently enrolled in the Qubit by Qubit program and undertaking courses from esteemed institutions such as MIT and the Perimeter Institute, I am systematically fortifying my comprehension of intricate quantum concepts. Delve into my repositories to witness the tangible outcomes of my learning process.
 
-**Top Languages**: Python, MATLAB & C
+**Languages**: Proficient in Python, MATLAB, and C.
 
-**Experience with**: Qiskit & Cirq
+**Experience with**: Qiskit and Cirq.
 
-In my pinned repositories, you'll find examples of my quantum computing projects, including practical implementations and academic studies. 
+Within my pinned repositories, you will encounter instances of my quantum computing undertakings, ranging from practical implementations to academic investigations.
 
-### 🤔 What I'm Up To
+**You can find me on: [LinkedIn](https://www.linkedin.com/in/thiriyaminhsu/)**
 
-Currently, my academic focus involves exploring quantum field theory and contributing to the theoretical physics community. 
-
-### 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/thiriyaminhsu/)
-
-Feel free to reach out!

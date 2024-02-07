@@ -6,7 +6,7 @@ I am Thiri, an undergraduate Computer Science student with a profound interest i
 
 ### 📝 Academic Journey
 
-My ongoing academic expedition in quantum computing is meticulously documented on GitHub. Concurrently enrolled in the Qubit by Qubit program and undertaking courses from esteemed institutions such as MIT and the Perimeter Institute, I am systematically fortifying my comprehension of intricate quantum concepts. Delve into my repositories to witness the tangible outcomes of my learning process.
+My ongoing academic expedition in Quantum Computing and Theoretical Physics is meticulously documented on GitHub. Concurrently enrolled in the Qubit by Qubit program and undertaking courses from esteemed institutions such as MIT and the Perimeter Institute, I am systematically fortifying my comprehension of intricate quantum concepts. Delve into my repositories to witness the tangible outcomes of my learning process.
 
 **Languages**: Proficient in Python, MATLAB, and C.
 

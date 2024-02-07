@@ -2,7 +2,7 @@
 
 ### 📚 Academic Background
 
-I am Thiri, an undergraduate Computer Science student with a profound interest in theoretical physics. Currently enrolled in the Qubit by Qubit program, I am actively engaging with the intricate domain of quantum computing. In my academic pursuits, I commit my free time to the comprehensive study of theoretical physics, particularly immersing myself in Quantum Field Theory through courses offered by the Perimeter Institute.
+I am Thiri, an undergraduate Computer Science student with a profound interest in theoretical physics. Currently enrolled in the Qubit by Qubit program, I am actively engaging with the intricate domain of quantum computing. In my academic pursuits, I commit my free time to the comprehensive study of theoretical physics, particularly immersing myself in Quantum Field Theory through graduate-level theoretical physics courses offered by the Perimeter Institute.
 
 ### 📝 Academic Journey
 

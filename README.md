@@ -1,12 +1,8 @@
 ## Hello, World!
 
-### 📚 Academic Background
+Greetings! I'm Thiri, an undergraduate Computer Science student deeply passionate about theoretical physics. Currently, I'm immersed in the captivating realm of quantum computing through the Qubit by Qubit program. Beyond my academic curriculum, I dedicate my spare moments to delving into the depths of quantum mechanics, exploring graduate-level theoretical physics courses from esteemed institutions like the Perimeter Institute and MITOCW.In my GitHub repositories, I've curated a comprehensive list of free learning resources, meticulously selected to foster a deeper understanding of quantum mechanics. 
 
-I am Thiri, an undergraduate Computer Science student with a profound interest in theoretical physics. Currently enrolled in the Qubit by Qubit program, I am actively engaging with the intricate domain of quantum computing. In my academic pursuits, I commit my free time to the comprehensive study of theoretical physics, particularly immersing myself in Quantum Field Theory through graduate-level theoretical physics courses offered by the Perimeter Institute. My ongoing academic expedition in Quantum Computing and Theoretical Physics is meticulously documented on GitHub. Delve into my repositories to witness the tangible outcomes of my learning process.
-
-**Languages**: Proficient in Python, MATLAB, and C.
-
-**Experience with**: Qiskit and Cirq.
+**Prior experiences in**: C, Python, Java, MATLAB, LaTeX, Qiskit, Cirq
 
 **You can find me on: [LinkedIn](https://www.linkedin.com/in/thiriyaminhsu/)**
 

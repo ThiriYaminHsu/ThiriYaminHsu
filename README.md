@@ -6,5 +6,5 @@ I'm Thiri, an undergraduate Computer Science student and researcher deeply passi
 
 **You can find me on: [LinkedIn](https://www.linkedin.com/in/thiriyaminhsu/)**
 
-**You can reach me via: [Email](thiriyaminhsu358@gmail.com)
+**You can reach me via: [Email](thiriyaminhsu358@gmail.com)**
 

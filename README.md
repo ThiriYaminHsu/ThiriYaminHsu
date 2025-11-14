@@ -1,6 +1,11 @@
-Hi! I'm Thiri, a Computer Science student actively seeking for learning opportunites to grow as a research scientist. On my GitHub, you'll find a comprehensive list of free learning resources curated along my learning journey to foster a deeper understanding of quantum mechanics.
+Hi! I'm Thiri — an MSc Applied Artificial Intelligence student at the University of Warwick with a deep interest in quantum computing, artificial intelligence, and scientific research. Here, I document my learning, share open-source work, and curate accessible resources on quantum computing, quantum mechanics, and AI.
 
-**Prior experiences in**: Python, Qiskit, Cirq
+**Technical Interests**
+- Quantum Computing (quantum algorithms, QML, quantum information)
+- Foundations of AI & ML
+
+**Tools & Experience**
+Python · Qiskit · Cirq · NumPy · MATLAB
 
 **You can find me on: [LinkedIn](https://www.linkedin.com/in/thiriyaminhsu/)**
 

@@ -4,8 +4,7 @@ Hi! I'm Thiri — an MSc Applied Artificial Intelligence student at the Universi
 - Quantum Computing (quantum algorithms, QML, quantum information)
 - Foundations of AI & ML
 
-**Tools & Experience**
-Python · Qiskit · Cirq · NumPy · MATLAB
+**Tools & Experience**: Python · Qiskit · Cirq · NumPy · MATLAB
 
 **You can find me on: [LinkedIn](https://www.linkedin.com/in/thiriyaminhsu/)**
 
